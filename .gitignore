@@ -1,0 +1,38 @@
+# Build / CMake
+build/
+build-*/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+*.dir/
+*.cbp
+
+# JUCE artefacts
+*/GrooveSeq_artefacts/
+GrooveSeq_vst3_helper/
+*.vst3
+
+# IDEs & editors
+.idea/
+.vscode/
+*.xcworkspace/
+*.xcodeproj/
+*.suo
+*.user
+*.userprefs
+*.VC.db
+*.vs/
+*.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Python / scripting leftovers
+__pycache__/
+*.pyc
