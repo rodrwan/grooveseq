@@ -13,7 +13,7 @@ GrooveSeq is a JUCE-powered VST3 drum sequencer built for fast beat sketching in
 - **Dark UI Theme** – Midnight background, muted greys, electric accents; adapts gracefully when resizing.
 
 ## Screenshots & Media
-- _Coming soon_: Add animated GIFs or stills of GrooveSeq loaded in your DAW.
+![WhatsApp Image 2026-02-05 at 00 19 43](https://github.com/user-attachments/assets/06b765fe-b520-46bc-a9b0-4563839c085d)
 
 ## Requirements
 - **Operating System:** macOS 11+ (tested). Other platforms untested for now.
